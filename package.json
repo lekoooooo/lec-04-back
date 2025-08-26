@@ -1,0 +1,22 @@
+{
+  "name": "lec-04-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build step required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lekoooooo/lec-04-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lekoooooo/lec-04-back/issues"
+  },
+  "homepage": "https://github.com/lekoooooo/lec-04-back#readme"
+}
