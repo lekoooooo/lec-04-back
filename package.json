@@ -2,7 +2,7 @@
   "name": "lec-04-back",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/lekoooooo/lec-04-back#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1"
   }
 }
