@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/lekoooooo/lec-04-back/issues"
   },
-  "homepage": "https://github.com/lekoooooo/lec-04-back#readme"
+  "homepage": "https://github.com/lekoooooo/lec-04-back#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
